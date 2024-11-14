@@ -23,7 +23,7 @@ Want to learn more about cybersecurity? Discover cybersecurity resources: anythi
 :link: [Edx](https://www.edx.org/)<br>
 :link: [Plurasight](https://www.pluralsight.com/)<br>
 :link: [Cyberacademy](https://cybercademy.org/author/grant/)<br>
-
+:link: [CyberPython](http://pythoncyber.go.ro:4443/)<br>
 
 ## Cybersecurity-Labs 🧪💻
 
@@ -70,6 +70,7 @@ A collection of free labs to practice and test your REDTEAM/BLUETEAM and CTF Ski
 :anger:  [Rangeforce](https://www.rangeforce.com)<br>
 :anger:  [Ctftime](https://ctftime.org)<br>
 :anger:  [Pwn college](https://dojo.pwn.college)<br>
+:anger: [PythonCyber](https://pythoncyber.go.ro)<br>
 
 
 ## Cybersecurity-Youtube Channels 📺
